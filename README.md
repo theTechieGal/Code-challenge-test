@@ -15,7 +15,7 @@ Complexity of the test: challening
 
 Challenges that i faced: to test this via browser and steps invloved in JSON post request
 
-time taken: 30 hours
+time taken: 24 hours
 
 Language used: JavaScript, Node.js
 
