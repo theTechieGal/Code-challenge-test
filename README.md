@@ -7,6 +7,8 @@ Welcome to the 9Digital Coding Challenge! To complete this challenge, you will n
 You can take as long as you need to submit your solution. We expect fully developed and tested production quality code. Please think about testing, adding a README and other artifacts that would be expected of a professional, production-ready solution.
 
 =========
+
+
 URL of the Web service: https://nine-digital.herokuapp.com/
 
 Complexity of the test: challening
@@ -16,6 +18,12 @@ Challenges that i faced: to test this via browser and steps invloved in JSON pos
 time taken: 30 hours
 
 Language used: JavaScript, Node.js
+
+
+Testing from terminal: curl -d "@payload.json" -H "Content-Type: application/json" -X POST http://localhost:3000/
+
+curl -d "@payload.json" -H "Content-Type: application/json" -X POST https://nine-digital.herokuapp.com
+
 
 
 
